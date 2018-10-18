@@ -1,0 +1,93 @@
+/* Style.CSS */
+
+body {
+	padding: 1em;
+	font-family: sans-serif;
+	font-weight: normal;
+}
+
+.div1 {
+	float: left;
+	clear: both;
+	width: 800px;
+}
+.h1 {
+	font-family: linux libertine;
+}
+.h3 {
+	font-family: linux libertine;
+}
+.hr1 {
+	width: 1300px;
+}
+
+.div2 {
+	background-color: #f8f9fa;
+	border-color:#a0a9b2; 
+	border-width: 1px;
+	border-style: solid;
+	float: left;
+	clear: both;
+	width: 150px;
+	height: 200px;
+	padding: 1em;
+	margin-right: 20px;
+	margin-bottom: 20px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+.h5 {
+	font-weight: normal;
+}
+
+.div3 {
+	background-color: #f8f9fa;
+	border-color: #a0a9b2;
+	border-style: solid;
+	border-width: 1px;
+	float: right;
+	width: 250px;
+	margin-top: -100px;
+	margin-bottom: 20px;
+	margin-right: 20px;
+	padding: 1em;
+}
+
+.img1 {
+	width: 200px;
+	height: 275px;
+}
+
+.div4 {
+	float:left;
+	clear: both;
+	width:800px;
+	margin-top: -300px;
+
+
+}
+
+.div5 {
+	float: left;
+
+}
+
+.div6 {
+	float: left;
+}
+
+.div7 {
+	float: left;
+}
+
+.div8 {
+	float: left;
+	clear: both;
+	column-count: 2;
+	column-gap: 20px;
+	column-width: 100px;
+	margin-bottom: 50px;
+
+	
+}
